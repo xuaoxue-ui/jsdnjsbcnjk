@@ -1,3 +1,5 @@
+//李苍皓已阅读
+
 #include <stdio.h>
 int Queenes[8]={0},Counts=0;
 int Check(int line,int list){
